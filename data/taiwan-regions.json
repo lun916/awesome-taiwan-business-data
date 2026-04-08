@@ -1,0 +1,29 @@
+{
+  "_description": "台灣 22 個行政區（直轄市/縣/市）的中英文與標準 slug 對照，適合做 URL routing 與資料 join。",
+  "_source": "中華民國行政區劃公開資訊整理",
+  "_license": "MIT (本對照表) / OGDL 1.0 (原始行政區資料)",
+  "regions": [
+    { "slug": "taipei",         "name_zh": "臺北市",   "name_en": "Taipei City",        "type": "special_municipality" },
+    { "slug": "new-taipei",     "name_zh": "新北市",   "name_en": "New Taipei City",    "type": "special_municipality" },
+    { "slug": "taoyuan",        "name_zh": "桃園市",   "name_en": "Taoyuan City",       "type": "special_municipality" },
+    { "slug": "taichung",       "name_zh": "臺中市",   "name_en": "Taichung City",      "type": "special_municipality" },
+    { "slug": "tainan",         "name_zh": "臺南市",   "name_en": "Tainan City",        "type": "special_municipality" },
+    { "slug": "kaohsiung",      "name_zh": "高雄市",   "name_en": "Kaohsiung City",     "type": "special_municipality" },
+    { "slug": "hsinchu-city",   "name_zh": "新竹市",   "name_en": "Hsinchu City",       "type": "city" },
+    { "slug": "hsinchu-county", "name_zh": "新竹縣",   "name_en": "Hsinchu County",     "type": "county" },
+    { "slug": "miaoli",         "name_zh": "苗栗縣",   "name_en": "Miaoli County",      "type": "county" },
+    { "slug": "changhua",       "name_zh": "彰化縣",   "name_en": "Changhua County",    "type": "county" },
+    { "slug": "nantou",         "name_zh": "南投縣",   "name_en": "Nantou County",      "type": "county" },
+    { "slug": "yunlin",         "name_zh": "雲林縣",   "name_en": "Yunlin County",      "type": "county" },
+    { "slug": "chiayi-city",    "name_zh": "嘉義市",   "name_en": "Chiayi City",        "type": "city" },
+    { "slug": "chiayi-county",  "name_zh": "嘉義縣",   "name_en": "Chiayi County",      "type": "county" },
+    { "slug": "pingtung",       "name_zh": "屏東縣",   "name_en": "Pingtung County",    "type": "county" },
+    { "slug": "yilan",          "name_zh": "宜蘭縣",   "name_en": "Yilan County",       "type": "county" },
+    { "slug": "hualien",        "name_zh": "花蓮縣",   "name_en": "Hualien County",     "type": "county" },
+    { "slug": "taitung",        "name_zh": "臺東縣",   "name_en": "Taitung County",     "type": "county" },
+    { "slug": "keelung",        "name_zh": "基隆市",   "name_en": "Keelung City",       "type": "city" },
+    { "slug": "penghu",         "name_zh": "澎湖縣",   "name_en": "Penghu County",      "type": "county" },
+    { "slug": "kinmen",         "name_zh": "金門縣",   "name_en": "Kinmen County",      "type": "county" },
+    { "slug": "lienchiang",     "name_zh": "連江縣",   "name_en": "Lienchiang County",  "type": "county" }
+  ]
+}
